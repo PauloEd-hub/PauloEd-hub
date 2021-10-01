@@ -2,7 +2,6 @@
 
 
 - 🔭 Hoje eu estou trabalhando com Java Web e ReactJs
-- 🌱 Estou aprendendo Banco de dados SQL
 
 
 <div align="center">
