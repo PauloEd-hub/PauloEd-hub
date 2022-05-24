@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Paulo e bem-vindo ao meu mundo. Espero que aproveite e veja meus projetos públicos, ficarei bastante agradecido.
 
 
-- 🔭 Hoje eu estou trabalhando com Java Web e ReactJs
+- 🔭 Hoje eu estou trabalhando com Java, Spring Boot, JavaScript e VueJs
 
 
 <div align="center">
